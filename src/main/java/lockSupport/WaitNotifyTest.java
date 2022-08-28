@@ -1,8 +1,7 @@
 package lockSupport;
 
-import ThreadTest.SleepUtils;
 
-
+import thread.ThreadTest.SleepUtils;
 
 /**
  * @program: WChi_Add_2020

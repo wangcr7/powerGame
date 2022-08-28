@@ -1,6 +1,6 @@
 package test_synchronized;
 
-import ThreadTest.SleepUtils;
+import thread.ThreadTest.SleepUtils;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;

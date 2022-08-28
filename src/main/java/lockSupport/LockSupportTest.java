@@ -1,6 +1,6 @@
 package lockSupport;
 
-import ThreadTest.SleepUtils;
+import thread.ThreadTest.SleepUtils;
 
 import java.util.concurrent.locks.LockSupport;
 

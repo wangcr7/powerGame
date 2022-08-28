@@ -1,6 +1,6 @@
 package iterator;
 
-import ThreadTest.SleepUtils;
+import thread.ThreadTest.SleepUtils;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

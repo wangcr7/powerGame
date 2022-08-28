@@ -1,6 +1,6 @@
 package jvm;
 
-import ThreadTest.SleepUtils;
+import thread.ThreadTest.SleepUtils;
 
 /**
  * @program: Real_Madrid_2020
